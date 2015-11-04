@@ -1,0 +1,26 @@
+{
+  "name": "node-zoomus",
+  "version": "1.0.0",
+  "description": "Zoom.us SDK for javascript and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duyetdev/node-zoomus.git"
+  },
+  "keywords": [
+    "zoomus",
+    "sdk"
+  ],
+  "author": "Van-Duyet Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duyetdev/node-zoomus/issues"
+  },
+  "homepage": "https://github.com/duyetdev/node-zoomus#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
